@@ -1,4 +1,4 @@
-# Capstone B — TeleConnect: Customer Churn Analysis
+# TeleConnect: Customer Churn Analysis
 
 **Naresh IT · Python for Full Stack Data Science with AI & Generative AI · Lead Trainer: Ajit Byru**
 
